@@ -1,0 +1,106 @@
+
+html {
+    background-color: black;
+}
+
+.colored-section{
+    background-color: #ff4c68; /*change this*/
+    color: #fff;
+}
+
+
+/* Containers */
+
+.container-fluid{
+    padding: 7% 15%;
+  }
+
+/* Sections */
+
+.colored-section1 {
+    background-color: #1b262c;
+    color: #fff;
+}
+
+.colored-section2 {
+    background-color: #0f4c81;;
+    color: #fff;
+}
+
+.white-section {
+    background-color: #fff;
+}
+
+/* Navigation Bar */
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+}
+
+/* Title */
+
+#title {
+    /* background-color: #413c69; */
+    color: #fff;
+    text-align: left;
+}
+
+#title .container-fluid {
+    padding: 3% 15% 7%;
+}
+
+/* Login */
+
+
+#login {
+    /* background-color: #413c69; */
+    color: #fff;
+    text-align: left;
+}
+
+.form-signin {
+    background-color: #0f4c81;
+}
+
+.loginInstruction {
+    padding-bottom: 10px;
+}
+
+.email {
+    padding: 5px 0;
+}
+
+.rememberMe {
+
+}
+
+.password {
+    padding: 5px 0;
+}
+
+.signUp {
+    padding-top: 10px;
+}
+
+.signUpButton {
+    background-color: black;
+}
+
+.signUpLink {
+    color: white;
+}
