@@ -77,8 +77,8 @@ states = {
 mydb = mysql.connector.connect(
     host="localhost",
     user='root',
-    passwd='Cc4812850!!',
-    database='checkin'
+    passwd='password',
+    database='database'
 )
 mycursor = mydb.cursor()
 
